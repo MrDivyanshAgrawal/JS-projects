@@ -1,14 +1,14 @@
-#javascript and classes 
+# javascript and classes 
 
-##OOP
+## OOP
 
-##Object
--collection of properties and methods
--toLowerCase
+## Object
+- collection of properties and methods
+- toLowerCase
 
-##Why use OOP
+## Why use OOP
 
-##parts of OOP
+## parts of OOP
 Object literal
 
 -Constructor function
@@ -16,7 +16,7 @@ Object literal
 -Classes
 -Instances(new,this)
 
-##4 pillars
+## 4 pillars
 Abstraction
 Encapsulation
 Inheritence
